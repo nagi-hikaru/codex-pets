@@ -6,13 +6,20 @@
 
 ## 桌宠目录
 
-- [doubao](./doubao/README.md)
-
-  [![豆包 IDLE 预览](./doubao/preview/idle.gif)](./doubao/README.md)
-
-- [袈裟猫](./jiasha-cat/README.md)
-
-  [![袈裟猫 IDLE 预览](./jiasha-cat/preview/idle.gif)](./jiasha-cat/README.md)
+<table>
+  <tr>
+    <th align="center"><a href="./doubao/README.md">doubao</a></th>
+    <th align="center"><a href="./jiasha-cat/README.md">袈裟猫</a></th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="./doubao/README.md"><img src="./doubao/preview/idle.gif" width="180" alt="豆包 IDLE 预览" /></a>
+    </td>
+    <td align="center">
+      <a href="./jiasha-cat/README.md"><img src="./jiasha-cat/preview/idle.gif" width="180" alt="袈裟猫 IDLE 预览" /></a>
+    </td>
+  </tr>
+</table>
 
 ## 许可证
 
