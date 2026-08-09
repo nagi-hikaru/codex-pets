@@ -9,7 +9,7 @@
 
 ## 快速安装
 
-通过 [release](https://github.com/nagi-hikaru/doubao/releases) 下载压缩包并解压到codex的pet目录下，或者在 [petdex](https://petdex.dev/pets/doubao-8) 上安装。
+通过 [release](https://github.com/nagi-hikaru/codex-pets/releases) 下载压缩包并解压到codex的pet目录下，或者在 [petdex](https://petdex.dev/pets/doubao-8) 上安装。
 
 ## 动画预览
 
