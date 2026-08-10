@@ -10,6 +10,7 @@
   <tr>
     <th align="center"><a href="./doubao/README.md">doubao</a></th>
     <th align="center"><a href="./jiasha-cat/README.md">袈裟猫</a></th>
+    <th align="center"><a href="./sherry/README.md">sherry</a></th>
   </tr>
   <tr>
     <td align="center">
@@ -17,6 +18,9 @@
     </td>
     <td align="center">
       <a href="./jiasha-cat/README.md"><img src="./jiasha-cat/preview/idle.gif" width="180" alt="袈裟猫 IDLE 预览" /></a>
+    </td>
+    <td align="center">
+      <a href="./sherry/README.md"><img src="./sherry/preview/idle.gif" width="180" alt="sherry IDLE 预览" /></a>
     </td>
   </tr>
 </table>
