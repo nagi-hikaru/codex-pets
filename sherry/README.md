@@ -28,7 +28,3 @@
     <td align="center"><strong>失败或阻塞</strong><br /><img src="./preview/failed.gif" width="160" alt="灰原哀失败或阻塞动画" /><br /><code>failed</code> · 8 帧</td>
   </tr>
 </table>
-
-## 许可证
-
-本仓库原创内容使用 [MIT License](LICENSE)。其中第三方素材不在 MIT 授权范围内。

@@ -1,12 +1,5 @@
 <div align="center">
 
-# Codex 豆包桌宠
-
-
-一个为 Codex 打造的 3D Q 版女孩桌面宠物。她会眨眼、招手、跳跃、等待输入，并在执行任务时努力敲击键盘。
-
-</div>
-
 ## 快速安装
 
 通过 [release](https://github.com/nagi-hikaru/codex-pets/releases) 下载压缩包并解压到codex的pet目录下，或者在 [petdex](https://petdex.dev/pets/doubao-8) 上安装。
@@ -30,7 +23,3 @@
     <td align="center"><strong>失败或阻塞</strong><br /><img src="./preview/failed.gif" width="160" alt="豆包失败或阻塞动画" /><br /><code>failed</code> · 8 帧</td>
   </tr>
 </table>
-
-## 许可证
-
-本仓库原创内容使用 [MIT License](LICENSE)。其中第三方素材不在 MIT 授权范围内。
